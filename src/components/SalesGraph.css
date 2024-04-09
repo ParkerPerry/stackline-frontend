@@ -1,0 +1,16 @@
+.sales-graph-container {
+  width: 100%;
+  max-width: 1300px;
+  margin: 0 auto; /* Centers container */
+  padding: 20px;
+  background: #fff;
+  box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.1);
+  border-radius: 4px;
+}
+
+.graph-title {
+  text-align: left;
+  margin-left: 20px;
+  color: #333;
+  font-size: 1.5em;
+}
